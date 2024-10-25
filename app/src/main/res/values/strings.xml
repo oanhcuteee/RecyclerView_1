@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecyclerView_1</string>
+    <string name="edt_search">Search recipes,articles,people...</string>
+
+    <string name="tv_host_now">HOST NOW</string>
+
+
+    <string name="tv_brussels_cabbage">Brussels sprouts are beneficial for health</string>
+    <string name="tv_mushroom">Mushrooms are high in non-plant protein and vitamin D</string>
+    <string name="tv_sugar_beet">Beet help reduce blood pressure</string>
+    <string name="tv_purple_cabbage">Purple cabbage has an attractive color and excellent antioxidants</string>
+    <string name="todo">TODO</string>
+</resources>
